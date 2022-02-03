@@ -1,0 +1,5 @@
+Package: compsuva
+Type: Package
+Title: Comparison of Survival Curves Between Two Groups
+Version: 1.0
+Imports: survival,survRM2, TSHRC, muhaz
